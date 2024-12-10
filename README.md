@@ -1,7 +1,7 @@
 # Vision-Based-Pose-and-Velocity-Estimation
 
 ### **Description**
-This Project demonstrates the implementation of a **vision-based 3D pose estimator** and a robust velocity estimation system for a **Nano+ quadrotor**. By leveraging AprilTag markers for localization, optical flow for motion estimation, and robust RANSAC outlier rejection, the project provides accurate estimates of the quadrotor's position, orientation, and velocity. The repository includes MATLAB code, datasets, and visualization scripts, offering a hands-on guide for researchers and students exploring computer vision and motion estimation.
+This Project demonstrates the implementation of a **vision-based 3D pose estimator** and a robust velocity estimation system for a Nano+ quadrotor. By leveraging **AprilTag markers for localization, optical flow for motion estimation, and robust RANSAC outlier rejection**, the project provides accurate estimates of the quadrotor's position, orientation, and velocity. The repository includes MATLAB code, datasets, and visualization scripts, offering a hands-on guide for researchers and students exploring computer vision and motion estimation.
 
 ---
 
