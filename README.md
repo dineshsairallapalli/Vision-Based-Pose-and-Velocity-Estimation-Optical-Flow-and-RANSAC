@@ -101,7 +101,7 @@ To develop an accurate vision-based localization system for a quadrotor using Ap
 ### **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Vision-Based-Pose-and-Velocity-Estimation.git
+   git clone https://github.com/dineshsairallapalli/Vision-Based-Pose-and-Velocity-Estimation.git
    cd Vision-Based-Pose-and-Velocity-Estimation
    ```
 2. Open MATLAB and initialize:
